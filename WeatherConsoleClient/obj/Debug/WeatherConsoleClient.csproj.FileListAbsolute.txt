@@ -1,7 +1,0 @@
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\bin\Debug\WeatherConsoleClient.exe.config
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\bin\Debug\WeatherConsoleClient.exe
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\bin\Debug\WeatherConsoleClient.pdb
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\obj\Debug\WeatherConsoleClient.csproj.AssemblyReference.cache
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\obj\Debug\WeatherConsoleClient.csproj.CoreCompileInputs.cache
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\obj\Debug\WeatherConsoleClient.exe
-C:\Users\адм\source\repos\WeatherProgram\WeatherConsoleClient\obj\Debug\WeatherConsoleClient.pdb
