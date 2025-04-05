@@ -1,0 +1,41 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS
+.vs/
+.vscode/
+.idea/
+
+# .NET
+bin/
+obj/
+
+# ASP.NET
+wwwroot/
+app_data/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+
+# User-specific files
+.vs2019/
+.vs2017/
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
